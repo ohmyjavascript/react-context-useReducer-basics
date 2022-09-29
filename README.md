@@ -98,3 +98,8 @@ inputRef.current.focus();
 
 ### App Description
 - Very simple application that explores React basics along with Context & useReducer to simulate redux based state management techniques.
+
+### Hosted demo
+
+
+[Here](https://react-context-use-reducer-basics-eqjq.vercel.app/)
